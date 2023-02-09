@@ -100,16 +100,16 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
-
+.t.cpu translater stap 3.0
 # Environments
-.env
+.env=iostream g3t4
 .venv
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
-
+.venv/next
 # Spyder project settings
 .spyderproject
 .spyproject
